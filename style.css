@@ -1,13 +1,1 @@
 /* Haut de page*/
-header#titre{
-    text-align: center;
-}
-#basedelagrille{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 
-}
-#titre{
-    grid-column-start: 1 ;
-    grid-column-end: 4;
-    grid-row-start: 1 ;
-    grid-row-end: 3 ;
