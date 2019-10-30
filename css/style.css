@@ -1,0 +1,14 @@
+/* Haut de page*/
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(221, 240, 243);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(247, 245, 245);
+  }
+
+  .logo {
+      width: 300%;
+      margin: 0;
+      padding: 0;
+  }
