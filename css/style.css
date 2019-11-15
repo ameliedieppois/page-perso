@@ -3,18 +3,23 @@ html,body{
     margin: 0%;
     padding: 0%;
 }
+
 body {
     background-color: rgb(225, 229, 230)
 }
 .banniere{
    width: 100%;
-   height: 125px;
+   height: 100%;
 }
 .email{
    width: 10%;
    height: 10%;
 }
 .insta{
+   width: 10%;
+   height: 10%;
+}
+.linkedin{
    width: 10%;
    height: 10%;
 }
@@ -25,6 +30,7 @@ body {
 .box2{
   color: #dc6a38; 
   text-align: center;
+  font-size: 200%;
 }
 .box3{
    margin:2%;
@@ -32,10 +38,38 @@ body {
    text-align: center;
 }
 .box4{
-   background-color: #79b5bc;
+   background-color: #eba88b;
+   text-align: justify;
 }
-
+.boxa{
+   margin: 5%;
+   padding:5%;
+}
+.citation{
+   text-align: right;
+   margin: 5%;
+   padding: 5%;
+}
+.box5{
+   margin: 5%;
+   padding: 5%;
+}
 .box6{
    margin: 5%;
    padding: 5%;
+}
+.insigneMonhistoire{
+   width: 25%;
+   height: 25%;
+}
+.insigneProjets{
+   width: 25%;
+   height: 25%;
+}
+.insigneCV{
+   width: 25%;
+   height: 25%;
+}
+.navigation{
+   text-align: center;
 }
