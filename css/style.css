@@ -23,6 +23,10 @@ body {
    width: 10%;
    height: 10%;
 }
+.facebook{
+   width: 10%;
+   height: 10%;
+}
 .logo{
    width: 100%;
    height: 100%;
@@ -30,7 +34,8 @@ body {
 .box2{
   color: #dc6a38; 
   text-align: center;
-  font-size: 200%;
+  font-size: 250%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .box3{
    margin:2%;
@@ -44,6 +49,8 @@ body {
 .boxa{
    margin: 5%;
    padding:5%;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   padding-top: 10%;
 }
 .citation{
    text-align: right;
@@ -57,6 +64,12 @@ body {
 .box6{
    margin: 5%;
    padding: 5%;
+}
+.boxb{
+   color: #dc6a38; 
+   text-align: center;
+   font-size: 250%;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .insigneMonhistoire{
    width: 25%;
