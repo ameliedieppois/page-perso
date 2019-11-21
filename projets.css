@@ -1,0 +1,22 @@
+html,body{
+    margin: 0%;
+    padding: 0%;
+}
+.banniere{
+    width: 100%;
+    height: 100%;
+}
+.box2{
+    margin: 5%;
+    padding: 5%;
+}
+.logo{
+    width: 100%;
+    height: 100%;
+}
+footer{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ed6d5c;
+    color: white;
+ }

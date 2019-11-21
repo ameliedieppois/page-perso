@@ -4,9 +4,6 @@ html,body{
     padding: 0%;
 }
 
-body {
-    background-color: rgb(225, 229, 230)
-}
 .banniere{
    width: 100%;
    height: 100%;
@@ -32,18 +29,25 @@ body {
    height: 100%;
 }
 .box2{
-  color: #dc6a38; 
+  color: #ed6d5c; 
   text-align: center;
   font-size: 250%;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.box2b{
+   text-align:center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 110%;
+   color: #448b99;
+}
+
 .box3{
    margin:2%;
    padding:2%;
    text-align: center;
 }
 .box4{
-   background-color: #eba88b;
+   background-color: #b9dbd8;
    text-align: justify;
 }
 .boxa{
@@ -66,7 +70,7 @@ body {
    padding: 5%;
 }
 .boxb{
-   color: #dc6a38; 
+   color: #ed6d5c; 
    text-align: center;
    font-size: 250%;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -85,4 +89,13 @@ body {
 }
 .navigation{
    text-align: center;
+}
+.citation{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer{
+   text-align: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color: #ed6d5c;
+   color: white;
 }
