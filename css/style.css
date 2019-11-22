@@ -107,8 +107,17 @@ footer{
    text-decoration: none;
 }
 a{
-
+text-decoration: none;
+color: white;
 }
 a:hover{
-   
+color: #448b99
+}
+@media screen and (min-width:852px){
+   .boxa{
+      font-size: 30px;
+   }
+   .citation{
+      font-size: 30px;
+   }
 }

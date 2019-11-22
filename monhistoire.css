@@ -24,3 +24,10 @@ html,body{
     background-color: #ed6d5c;
     color: white;
  }
+ a{
+    text-decoration: none;
+    color: white;
+    }
+    a:hover{
+    color: #448b99
+    }
