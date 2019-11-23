@@ -1,4 +1,4 @@
-/* Haut de page*/
+
 html,body{
     margin: 0%;
     padding: 0%;
@@ -119,5 +119,14 @@ color: #448b99
    }
    .citation{
       font-size: 30px;
+   }
+   .box2{
+      font-size: 300%;
+   }
+   .box2a{
+      font-size: 160%;
+   }
+   .box2b{
+      font-size: 160%;
    }
 }

@@ -31,3 +31,11 @@ html,body{
     a:hover{
     color: #448b99
     }
+    @media screen and (min-width:1000px){
+        .box2{
+            font-size: 150%;
+        }
+        .boxb{
+            font-size: 350%;
+        }
+    }
