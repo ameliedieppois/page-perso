@@ -14,11 +14,30 @@ html,body{
     width: 100%;
     height: 100%;
 }
+.box3{
+    text-align: center;
+}
+.cartedevisite{
+    width: 50%;
+    height: 50%;
+}
+.cartedevisite2{
+    width: 50%;
+    height: 50%;
+}
+.box4{
+    text-align: center;
+}
+.expo{
+    width: 100%;
+    height: 100%;
+}
 footer{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #ed6d5c;
     color: white;
+    font-size: 100%;
  }
  a{
     text-decoration: none;

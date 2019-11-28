@@ -23,6 +23,7 @@ html,body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #ed6d5c;
     color: white;
+    font-size: 100%;
  }
  a{
     text-decoration: none;
